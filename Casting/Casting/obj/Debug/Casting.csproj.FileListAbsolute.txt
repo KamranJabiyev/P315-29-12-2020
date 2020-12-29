@@ -1,0 +1,6 @@
+E:\P315\Casting\Casting\bin\Debug\Casting.exe.config
+E:\P315\Casting\Casting\bin\Debug\Casting.exe
+E:\P315\Casting\Casting\bin\Debug\Casting.pdb
+E:\P315\Casting\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+E:\P315\Casting\Casting\obj\Debug\Casting.exe
+E:\P315\Casting\Casting\obj\Debug\Casting.pdb
